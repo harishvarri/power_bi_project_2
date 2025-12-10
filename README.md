@@ -1,6 +1,6 @@
 
 
-What you will learn?
+What i will learn?
 
 Data Cleaning and Adding columns with Power Query
 Data Modeling and Star Schema
